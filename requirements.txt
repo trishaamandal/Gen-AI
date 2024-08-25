@@ -1,0 +1,9 @@
+streamlit
+Pillow
+youtube-transcript-api
+PyPDF2
+python-dotenv
+google-generativeai
+langchain
+faiss-cpu
+langchain-google-genai
